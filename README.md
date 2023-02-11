@@ -3,4 +3,4 @@
 cumulatively in each step.
 Ex: Red -> Blue so you would click red and then blue and not just blue.
 
-![Game sample](/SimonGame/sample.gif)
+![Game sample](https://github.com/saketbyte/SimonGame/blob/main/sample.gif)
